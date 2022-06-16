@@ -63,9 +63,9 @@
     3. Enter values for the sender, receiver, and amount, and then click the "Add Block" button. Do this several times to        store several blocks in the ledger.
     4. Verify the block contents and hashes in the Streamlit drop-down menu.
         - Take a screenshot of the Streamlit application page, which should detail a blockchain that consists of multiple           blocks. Include the screenshot in the `README.md` file for your Challenge repository.
+         ![detailed_blockchain_with_multiple_blocks](https://github.com/schroeds20055/Module18_Challenge/blob/main/Resources/detailed_blockchain_with_multiple_blocks.png "detailed_blockchain_with_multiple_blocks")
           
-              
-          
-    5. Test the blockchain validation process by using the web interface.
+     5. Test the blockchain validation process by using the web interface.
         - Take a screenshot of the Streamlit application page, which should indicate the validity of the blockchain. 
         - Include the screenshot in the `README.md` file for your Challenge repository.
+        ![Indication_of_validity](https://github.com/schroeds20055/Module18_Challenge/blob/main/Resources/Indication_of_validity.png "Indication_of_validity")
